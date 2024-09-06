@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://saravana.vercel.app/](https://saravana.vercel.app/)
+[https://cryptovecom.vercel.app/](https://cryptovecom.vercel.app/)
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -50,77 +50,6 @@ http://localhost:3000
 2. **React.js:** A JavaScript library for building user interfaces, providing a modular and reusable component-based structure.
 
 3. **TypeScript:** A typed superset of JavaScript, enhancing code maintainability and catching errors during development.
-
-### Integrations
-
-1. **GitHub:** Integration with GitHub allows dynamic fetching and display of GitHub-related data, such as followers, following, total stars and contributions.
-
-2. **EmailJS:** Integration with EmailJS facilitates sending emails directly from the portfolio website. API keys and setup instructions can be obtained from the [EmailJS website](https://www.emailjs.com/).
-
-3. **Hashnode Blog:** Integration with Hashnode for blogging features, connecting the portfolio to a Hashnode blog. Configure the integration through Hashnode's documentation.
-
-4. **Instagram Widget:** Embedding an Instagram widget to display recent posts. Obtain the required code or API key from the [Behold.so](https://app.behold.so/).
-
-5.  **Canva Iframe:** Integrating Canva through an iframe allows showcasing designs and graphics. To embed Canva content, obtain the embed code from the Canva platform.
-
-6. **Calendly Iframe:** Embedding Calendly through an iframe enables users to schedule appointments. To include a Calendly scheduling widget, get the embed code from the Calendly website.
-
-7. **Analytics:** Analytics for this personal portfolio are managed using Vercel and Google Analytics to gather insights into visitor behaviour and engagement. 
-
-8. **Testimonials.to:** Integration with Testimonials.to allows displaying testimonials from clients and users. Obtain the required code from the Testimonials.to the platform.
-
-9. **Visme Feedback Form:** A feedback form powered by Visme is included in the portfolio for collecting user feedback and suggestions.
-
-10.  **AI Chatbot:** An AI chatbot is integrated into the portfolio to provide interactive communication and assistance. 
-
-## How to Obtain API Keys and Embed Codes
-
-### EmailJS
-
-1. Sign up for an account on [EmailJS](https://www.emailjs.com/).
-2. Create an email template and obtain the Service ID, Template ID and Public Access Code.
-3. Use these credentials in your portfolio code for EmailJS integration.
-
-### Instagram Widget
-
-1. Create a developer account on [behold.so](https://app.behold.so/).
-2. Set up a widget and obtain an Access Token for Instagram.
-3. Use the Access Token in your portfolio code for Instagram integration.
-
-### Canva Iframe
-
-1. Create or log in to your Canva account.
-2. Design your content, then click on the "Share" button.
-3. Copy the provided embed code.
-4. Use the embed code in your portfolio to showcase Canva designs.
-
-### Calendly Iframe
-
-1. Sign up or log in to [Calendly](https://calendly.com/).
-2. Create a new event or appointment type.
-3. Copy the provided embed code.
-4. Use the embed code in your portfolio to embed the Calendly scheduling widget.
-
-### GitHub Integration
-
-1. Create a Github Account and copy your username.
-2. To integrate GitHub just your Username is enough.
-3. Use the Username in your portfolio to showcase your Github Contribution.
-
-### How to Set Up Google Analytics
-
-1. Sign in to your [Google Analytics](https://analytics.google.com/) account or create a new one.
-2. Create a new property for your portfolio website.
-3. Obtain the tracking code provided by Google Analytics.
-4. Insert the tracking code into your website. In a Next.js project, this is often done in the `<Head>` section of the layout or using a dedicated library.
-
-### Testimonials.to
-
-1. Create an account on [Testimonials.to](https://testimonials.to/).
-2. Add testimonials and obtain the provided code.
-3. Use the code in your portfolio to display testimonials.
-4. Customize the appearance and layout of the testimonials as needed.
-5. Testimonials.to provide a simple and effective way to showcase client feedback and reviews.
 
 
 # Deployment
@@ -179,7 +108,7 @@ Your support encourages continuous improvement and fuels the motivation to creat
 
 ### Acknowledgements
 
-This portfolio project's initial design and code structure were inspired by the [Evander Inacio Portfolio](https://github.com/EvanderInacio/Portfolio) repository. Special thanks to Evander Inacio for providing a foundation for this project.
+This portfolio project's initial design and code structure were inspired by the [Saravanakumar R Portfolio](https://github.com/Saravanakumar2003/Portfolio) repository. Special thanks to Evander Inacio for providing a foundation for this project.
 
 Later all the above modifications and enhancements were made to personalize the portfolio and add new features. The project continues to evolve with additional sections, integrations, and improvements.
 
