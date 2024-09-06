@@ -1,8 +1,6 @@
 
 <h1 align="center" id="title">Personal Portfolio</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Saravanakumar2003/Portfolio/image?description=1&amp;font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
-
 <p id="description">Welcome to my personal portfolio website repository! This project serves as the codebase for my online portfolio showcasing my skills projects and experiences. Feel free to explore the code and provide feedback to help me improve.</p>
 
 <h2>🚀 Demo</h2>
@@ -14,13 +12,13 @@
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/Saravanakumar2003/Portfolio.git
+git clone https://github.com/cryptovecom/MyPortfolio.git
 ```
 
 <p>2. Navigate to the project directory</p>
 
 ```
-cd Portfolio
+cd MyPortfolio
 ```
 
 <p>3. Install dependencies</p>
@@ -173,7 +171,7 @@ Thank you for exploring my personal portfolio project! If you find it interestin
 
 ## Show Your Support <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
 
-- **Follow:** Stay updated with the latest developments and projects by [following me on GitHub](https://github.com/Saravanakumar2003).
+- **Follow:** Stay updated with the latest developments and projects by [following me on GitHub](https://github.com/cryptovecom).
 - **Fork:** Contribute to the project by forking it. Feel free to make your modifications and enhancements.
 - **Star:** If you find this project useful or inspiring, show your appreciation by starring it.
 
@@ -185,10 +183,3 @@ This portfolio project's initial design and code structure were inspired by the 
 
 Later all the above modifications and enhancements were made to personalize the portfolio and add new features. The project continues to evolve with additional sections, integrations, and improvements.
 
-## Author
-
-👤 **Saravanakumar**
-
-- GitHub: [@Saravanakumar2003](https://github.com/Saravanakumar2003)
-- Portfolio: [saravana.vercel.app](https://saravana.vercel.app)
-- LinkedIn: [Saravanakumar](https://www.linkedin.com/in/saravanakumar2003/)
