@@ -30,7 +30,7 @@ export function Header() {
               alt="logo"
             />
           </div>
-          {'Saravanakumar'}
+          {'Robert-Portfolio'}
         </Link>
 
         <div className="audio-player">
