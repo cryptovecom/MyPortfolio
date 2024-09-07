@@ -6,7 +6,6 @@ import { List, X } from 'phosphor-react'
 import { FiGithub, FiLinkedin, FiInstagram } from 'react-icons/fi'
 import { FaWhatsapp } from 'react-icons/fa'
 
-import AudioPlayer from '../Music/AudioPlayer';
 
 export function Header() {
   const [open, setOpen] = useState(false);
@@ -32,17 +31,6 @@ export function Header() {
           </div>
           {'Robert-Portfolio'}
         </Link>
-
-        <div className="audio-player">
-          <AudioPlayer audioSrc={musicSrc} />
-        </div>
-        <style jsx>{`
-        .audio-player {
-          margin: 5px 20px;
-          flex-grow: 1; 
-          max-width: 600px; 
-        }
-          `}</style>
 
         <MobileIcon onClick={handleOpen}>
           {open ? (
