@@ -10,8 +10,8 @@ const experience = [
      "✯Designed the entire smart contract workflow and built the core codebase to bring it to life. \n\n ✯Developed a factory contract that helps deploy other smart contracts and manage the project's data structure and workflow.  \n\n ✯Created the Blueprint smart contract, which allows for the creation, minting, and burning of assets using the ERC1155 token protocol.   \n\n ✯Led the development of the project's frontend, carefully aligning it with the token components and pages using React.js to ensure a smooth user experience.  \n\n ✯To connect the on-chain program with the frontend, I built the Web3 infrastructure using modern technologies like ethers.js, web3.js, and wagmi.",
     tags: [
       { name: 'Solidity', icon: '/icons/solidity.png' },
-      { name: 'TypeScript', icon: '/icons/ts.png'},
-      { name: 'React', icon: '/icons/React.png'},
+      { name: 'TypeScript', icon: '/icons/TS.png'},
+      { name: 'React', icon: '/icons/react.svg'},
       { name: 'Node.js', icon: '/icons/nodejs.svg' },
       { name: 'TailwindCSS', icon: '/icons/tailwindcss.svg' },
       { name: 'MongoDB', icon: '/icons/mongodb.svg' },
