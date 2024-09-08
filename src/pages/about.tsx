@@ -21,15 +21,15 @@ interface DashboardPageProps {
 export default function About() {
   return <>
     <Head>
-      <title>About | Saravanakumar</title>
+      <title>About | Robert Wang</title>
       <meta
         name="description"
-        content="I am Saravanakumar, a proud student of Velammal Engineering College, where I am pursuing a Bachelors degree in Electronics and Communication Engineering and building a solid foundation in technology."
+        content="I am Robert Wang, a Senior Blockchain Engineer with over 6 years of software development experience, including 4 years of deep specialization in blockchain technologies."
       />
-      <meta property="og:title" content="About | Saravanakumar" />
+      <meta property="og:title" content="About | RobertWang" />
       <meta
         property="og:description"
-        content="I am Saravanakumar, a proud student of Velammal Engineering College, where I am pursuing a Bachelors degree in Electronics and Communication Engineering and building a solid foundation in technology."
+        content="I am Robert Wang, a Senior Blockchain Engineer with over 6 years of software development experience, including 4 years of deep specialization in blockchain technologies."
       />
     </Head>
 
@@ -49,19 +49,19 @@ export default function About() {
             <img
               className="AboutImg"
               src="/Saravana.jpg"
-              alt="Saravanakumar"
+              alt="Robert Wang"
             />
 
             <div className="links">
               <ul>
                 <Link
-                  href={'https://github.com/Saravanakumar2003'}
+                  href={'https://github.com/cryptovecom'}
                   target="_blank"
                   aria-label="Github">
 
-                  <AiFillGithub size={25} />@Saravanakumar2003
+                  <AiFillGithub size={25} />@cryptovecom
                 </Link>
-                <Link
+                {/* <Link
                   href={'https://www.linkedin.com/in/saravanaramaswamy2003/'}
                   target="_blank"
                   aria-label="Linkedin">
@@ -74,14 +74,14 @@ export default function About() {
                   aria-label="WhatsApp">
 
                   <RiWhatsappFill size={25} />+91 8838416187
-                </Link>
+                </Link> */}
                 <Link
-                  href={'mailto:hello@saravanakumar.engineer'}
+                  href={'rwdev012995@gmail.com'}
                   className="email"
                   target="_blank"
                   aria-label="email">
 
-                  <GrMail size={25} />hello@saravanakumar.engineer
+                  <GrMail size={25} />rwdev012995@gmail.com
                 </Link>
               </ul>
             </div>
@@ -124,16 +124,16 @@ export default function About() {
         </S.AboutContent>
       </S.AboutContainer>
 
-      <Title>
+      {/* <Title>
           Instagram Post
           <span>
             < InstagramLogo /> Latest
           </span>
-        </Title>
-        <Instagram />
+      </Title>
+      <Instagram />
       <a style={{ textAlign: 'center' }}>
         Show your ❤️ by liking and commenting, <br /> Follow me on Instagram for more updates.
-      </a>
+      </a> */}
       <Link href={'/#home'} legacyBehavior>
         <ButtonSecondary>
           <a>
