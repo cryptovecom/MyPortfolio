@@ -24,7 +24,7 @@ export function Contact() {
 
       <ContainerContact>
         <ContactContent>
-          <div className="contact-content">
+          {/* <div className="contact-content">
             <h4>
               <BsWhatsapp size={22} color="#00fffb" /> WhatsApp{' '}
             </h4>
@@ -33,16 +33,16 @@ export function Contact() {
               <span>+91 8838416187</span>
 
             </Link>
-          </div>
+          </div> */}
 
           <div className="contact-content">
             <h4>
               {' '}
               <TelegramLogo size={22} color="#00fffb" /> Email{' '}
             </h4>
-            <Link href="mailto:hello@saravanakumar.engineer" target="_blank">
+            <Link href="rwdev012995@gmail.com" target="_blank">
 
-              <span>hello@saravanakumar.engineer</span>
+              <span>rwdev012995@gmail.com</span>
 
             </Link>
           </div>
