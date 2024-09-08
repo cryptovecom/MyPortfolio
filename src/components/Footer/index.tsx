@@ -6,20 +6,20 @@ import { FooterContainer } from './styles'
 export function Footer() {
   return (
     <FooterContainer>
-      <h4> &copy; {new Date().getFullYear()} Saravanakumar Ramaswamy</h4>
+      <h4> &copy; {new Date().getFullYear()} Robert Wang</h4>
       <div className="links">
         <Link
-          href={'https://github.com/Saravanakumar2003'}
+          href={'https://github.com/cryptovecom'}
           target="_blank"
-          aria-label="Link para o Github">
+          aria-label="Link Github">
 
           <FiGithub />
 
-        </Link>
+        {/* </Link>
         <Link
           href={'https://www.linkedin.com/in/saravanaramaswamy2003/'}
           target="_blank"
-          aria-label="Link para o Linkedin">
+          aria-label="Link Linkedin">
 
           <FiLinkedin />
 
@@ -40,7 +40,7 @@ export function Footer() {
           target="_blank"
           aria-label="Link para entrar em contato via whatsapp">
 
-          <FaWhatsapp />
+          <FaWhatsapp /> */}
 
         </Link>
       </div>

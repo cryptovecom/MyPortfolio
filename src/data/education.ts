@@ -2,7 +2,7 @@ const education = [
   {
     id: 1,
     url: 'SUTD',
-    img: '/education/SUTD.jpg',
+    img: '/education/university.jpg',
     title: 'Singapore University of Technology and Design (SUTD)',
     subTitle: 'Bachelor of Engineering',
     office: 'Information Systems Technology and Design',

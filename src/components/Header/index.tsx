@@ -14,7 +14,7 @@ export function Header() {
     setOpen(!open);
   };
 
-  const musicSrc = '/others/music.mp3';
+  // const musicSrc = '/others/music.mp3';
   
   return (
     <HeaderContainer style={{ position: 'fixed', top: 0, width: '100%', zIndex: 1000 }}>
@@ -66,14 +66,14 @@ export function Header() {
 
             </Link>
           </li>
-
+{/* 
           <li>
             <Link href={'/blog'}>
 
               <span>Blogs</span>
 
             </Link>
-          </li>
+          </li> */}
 
           <li>
             <Link href={'/projects'}>
@@ -100,9 +100,9 @@ export function Header() {
           </li>
         </ul>
 
-        <Icons>
+        {/* <Icons>
           <Link
-            href={'https://github.com/Saravanakumar2003'}
+            href={'https://github.com/cryptovecom'}
             target="_blank"
             aria-label="Github">
 
@@ -137,7 +137,7 @@ export function Header() {
           </Link>
 
 
-        </Icons>
+        </Icons> */}
       </NavMenu>
     </HeaderContainer>
   );

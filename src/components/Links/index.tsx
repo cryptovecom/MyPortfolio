@@ -8,12 +8,12 @@ export function Links() {
     <>
       <Icons>
         <Link href={'https://github.com/Saravanakumar2003'}>
-          <a target="_blank" aria-label="Link para o Github">
+          <a target="_blank" aria-label="Link Github">
             <FiGithub />
           </a>
         </Link>
         <Link href={'https://www.linkedin.com/in/saravanaramaswamy2003/'}>
-          <a target="_blank" aria-label="Link para o Linkedin">
+          <a target="_blank" aria-label="Link Linkedin">
             <FiLinkedin />
           </a>
         </Link>
