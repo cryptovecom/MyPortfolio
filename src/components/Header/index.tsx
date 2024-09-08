@@ -66,14 +66,6 @@ export function Header() {
 
             </Link>
           </li>
-{/* 
-          <li>
-            <Link href={'/blog'}>
-
-              <span>Blogs</span>
-
-            </Link>
-          </li> */}
 
           <li>
             <Link href={'/projects'}>
