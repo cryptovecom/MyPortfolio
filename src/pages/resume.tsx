@@ -25,12 +25,12 @@ export default function Resume() {
   return (
     <>
       <Head>
-        <title>Resume | Saravanakumar </title>
+        <title>Resume | Robert Wang </title>
         <meta
           name="description"
           content="This is my updated resume, you can see or download it."
         />
-        <meta property="og:title" content="Resume | Saravanakumar" />
+        <meta property="og:title" content="Resume | Robert Wang" />
         <meta
           property="og:description"
           content=" This is my updated resume, you can see or download it."
@@ -47,7 +47,7 @@ export default function Resume() {
           </span>
         </Title>
         <Description style={{width:'100%', textAlign: 'center', marginBottom: '1px'}}>
-          This is my updated resume, powered by Canva website. 
+          This is my updated resume. 
           <br />
           You can download my professional resume by clicking on the download button below.
         </Description>
@@ -58,7 +58,7 @@ export default function Resume() {
             allowFullScreen
             width="740"
             height="780"
-            title="Saravanakumar Resume"
+            title="RobertWang Resume"
           />
 
           <CV />

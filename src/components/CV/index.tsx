@@ -20,19 +20,19 @@ export function CV() {
               Here you can download my professional resume by clicking on the download button.
               </p>
               <div className="profile">
-                <img src="https://github.com/Saravanakumar2003.png" alt="Imagem de perfil" />
+                <img src="./icons/cryptovecom.png" alt="cryptovecom" />
                 <div className="name">
-                  <h3>Saravanakumar R</h3>
-                  <span>Developer | Speaker | Volunteer</span>
+                  <h3>Robert Wang</h3>
+                  <span>Full Stack | Blockchain developer</span>
                 </div>
               </div>
           </CVDescription>
           
           <Curriculum>
             <img src="/cv.png" alt="Resume" />
-            <a href="/pdf/Saravanakumar_Resume.pdf" download>
+            <a href="/resume/RobertWang.docx" download>
               <ButtonSecondAlt>
-                <b>Download CV</b> <FiDownload size={20}  />
+                <b>Download Resume</b> <FiDownload size={20}  />
               </ButtonSecondAlt>
             </a>
           </Curriculum>
