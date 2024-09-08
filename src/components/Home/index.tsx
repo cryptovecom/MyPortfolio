@@ -40,7 +40,7 @@ export function HomeHero() {
           </h2>
         </HomeText>
         <ImgHome>
-          <img className="home-img" src="/home.png" alt="Imagem da Home" />
+          <img className="home-img" src="/home.png" alt="Home Image" />
         </ImgHome>
       </Content>
     </Container>
