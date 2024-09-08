@@ -8,7 +8,7 @@ const projects = [
     type: 'Software',
     icon: '/projects/Muon/icon.png',
     blog: 'https://saravanakumar2003.hashnode.dev/muon-track-reconstruction',
-    github: 'https://github.com/Saravanakumar2003/Muon-Track-Reconstruction',
+    github: 'https://github.com/cryptovecom/Muon-Track-Reconstruction',
     web: 'https://muon-api.onrender.com/',
     description:
       'The Muon Track Reconstruction software is a sophisticated simulation and analysis tool designed for studying muon interactions with customizable drift tube arrays. This project showcases advanced skills in particle physics simulation, data analysis, and software development, combining complex algorithms with an intuitive user interface to provide researchers with a powerful tool for muon detection experiments.',
@@ -79,7 +79,7 @@ const projects = [
     type: 'Website',
     icon: '/projects/NSS/Nss.png',
     blog: 'https://saravanakumar2003.hashnode.dev/nssvec-website',
-    github: 'https://github.com/Saravanakumar2003/NSS',
+    github: 'https://github.com/cryptovecom/NSS',
     web: 'https://nssvec.vercel.app/',
     description:
       'NSSVEC is a platform that allows students to register, login, event/photo/video uploads, view & upload newsletters, notifications, volunteer/teacher lists, admin controls, and batch details. It was developed for the National Service Scheme (NSS) unit of Velammal Engineering College.',
@@ -186,7 +186,7 @@ const projects = [
     type: 'Website',
     icon: '/projects/NIWEDashboard/NIWE.png',
     blog: 'https://saravanakumar2003.hashnode.dev/niwe-dashboard',
-    github: 'https://github.com/Saravanakumar2003/NIWEDashboard',
+    github: 'https://github.com/cryptovecom/NIWEDashboard',
     web: 'https://niwe.netlify.app/',
     description:
       'This is a powerful management system made for NIWE (National Institue of Wind Energy) during my internship. The system is designed to simplify and enhance project management, making it efficient.',
@@ -287,7 +287,7 @@ const projects = [
     type: 'Convertor',
     icon: '/projects/DATtoCSV/DATlogo.png',
     blog: 'https://saravanakumar2003.hashnode.dev/dat-to-csv-file-converter',
-    github: 'https://github.com/Saravanakumar2003/DAT-to-CSV-Convertor',
+    github: 'https://github.com/cryptovecom/DAT-to-CSV-Convertor',
     web: 'https://saravanakumar.pythonanywhere.com/',
     description:
       'This project is a Python-based .dat to .csv file converter initially developed during my internship tenure at the National Institute of Wind Energy (NIWE). The objective was to address the challenge of converting .dat files to .csv format efficiently.',
@@ -357,7 +357,7 @@ const projects = [
     title: 'EmpowerKids',
     type: 'Website',
     icon: '/projects/EmpowerKids/EKlogo.jpg',
-    github: 'https://github.com/Saravanakumar2003/EmpowerKids',
+    github: 'https://github.com/cryptovecom/EmpowerKids',
     blog: 'https://saravanakumar2003.hashnode.dev/empowerkids-complaint-portal',
     web: 'https://empowerkids.netlify.app/',
     description:
@@ -440,7 +440,7 @@ const projects = [
     title: 'Personal Portfolio',
     type: 'Website',
     icon: '/Logo1.png',
-    github: 'https://github.com/Saravanakumar2003/Portfolio',
+    github: 'https://github.com/cryptovecom/Portfolio',
     blog: 'https://saravanakumar2003.hashnode.dev/how-i-built-my-portfolio',
     web: 'https://saravana.vercel.app/',
     description:

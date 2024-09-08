@@ -7,7 +7,7 @@ export function Links() {
   return (
     <>
       <Icons>
-        <Link href={'https://github.com/Saravanakumar2003'}>
+        <Link href={'https://github.com/cryptovecom'}>
           <a target="_blank" aria-label="Link Github">
             <FiGithub />
           </a>

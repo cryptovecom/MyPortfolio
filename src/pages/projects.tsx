@@ -10,7 +10,6 @@ import * as T from "../styles/styles";
 import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { FaSearch } from "react-icons/fa";
 import { ArrowRight } from "phosphor-react";
-import Github from "../components/Github/Github";
 
 const botkey = process.env.NEXT_PUBLIC_BOTKEY_URL;
 
@@ -128,17 +127,9 @@ export default function Projects() {
             
           </S.ProjectsContent>
         </S.ProjectsContainer>
-        <T.Title>
-          <p>../github</p>
-          Github Profile
-          <span>
-            <HiOutlineDesktopComputer /> Stats
-          </span>
-        </T.Title>
-        <Github />
         <p className="github">
-              Hey, hey... I have more projects on{" "}
-              <a href="https://github.com/Saravanakumar2003" style={{textDecoration: 'underline',}}> my GitHub </a>
+              Hi,... I have more projects on{" "}
+              <a href="https://github.com/cryptovecom" style={{textDecoration: 'underline',}}> my GitHub </a>
               !!
         </p>
       </T.Section>
