@@ -80,8 +80,8 @@ export default function Experience() {
                       <>
                         <h2 key={experience.id}>
                           {numbering >= 0 && numbering <= 10
-                            ? `0${numbering - 1}`
-                            : `${numbering - 1}`}
+                            ? `0${numbering}`
+                            : `${numbering}`}
                         </h2>
                         <Tab className="tab">
                           <button>{experience.title}</button>

@@ -20,7 +20,7 @@ export function CV() {
               Here you can download my professional resume by clicking on the download button.
               </p>
               <div className="profile">
-                <img src="./icons/cryptovecom.png" alt="cryptovecom" />
+                <img src="/resume/cryptovecom.png" alt="cryptovecom" />
                 <div className="name">
                   <h3>Robert Wang</h3>
                   <span>Full Stack | Blockchain developer</span>
