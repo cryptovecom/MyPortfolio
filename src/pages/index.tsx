@@ -12,7 +12,6 @@ import { Section } from "../styles/styles";
 import { Education } from "../components/Education";
 import { Achievements } from "../components/Achievements";
 import { Testimonials } from "../components/Testimonials";
-import { Publications } from "../components/Publications";
 import { Wakatime } from "../components/Coding/Wakatime";
 import { Certificates } from "../components/Certificates/index";
 
@@ -34,7 +33,6 @@ export default function Home() {
         <Education />
         <Experience />
         <Achievements />
-        <Publications />
         <Certificates />
         <Projects />
         <Wakatime />
