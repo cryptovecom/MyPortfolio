@@ -31,12 +31,12 @@ const experience = [
       tags: [
       { name: 'Solidity', icon: '/icons/solidity.png' },
       { name: 'TypeScript', icon: '/icons/TS.png'},
-      { name: 'Polygon', icon: '/icons/polygon.svg' },
+      { name: 'Polygon', icon: '/icons/polygon.png' },
       { name: 'Next', icon: '/icons/nextjs.png' },
       { name: 'Hardhat', icon: '/icons/hardhat.png' },
       { name: 'Git', icon: '/icons/git.png' },
     ],
-    date: 'Jan 2022 - Jul-23',
+    date: 'Nov 2022 – Jul 2023',
     link: 'https://www.mimic.fi/',
   },
   
@@ -80,7 +80,7 @@ const experience = [
   {
     id: 1,
     img: '/experience/psofttech.PNG',
-    title: 'https://www.professionalsofttech.com/',
+    title: 'Professional Soft-Tech',
     subTitle: 'Onsite, Contract',
     office: 'Full Stack developer',
     description:'✯Successfully implemented websites and landing pages using the MERN stack, enhancing scalability and performance. \n\n✯Boosted user engagement by 20% through dynamic UI elements and responsive designs. Standardized outputs with mobile-first approaches, delivering optimized, cross-browser-compatible web pages. \n\n✯Engineered RESTful APIs with Express.js and integrated third-party services like Shopify and WordPress for e-commerce.  \n\n✯Led the development of custom Shopify apps and WordPress plugins, enhancing store functionality and content management.  \n\n✯Adapted to Agile practices, ensuring timely feature delivery and resolving technical challenges effectively.',
@@ -90,10 +90,11 @@ const experience = [
       { name: 'Node.js', icon: '/icons/nodejs.svg' },
       { name: 'Express.js', icon: '/icons/expressjs.png' },
       { name: 'MongoDB', icon: '/icons/mongodb.svg' },
-      { name: 'Wordpress', icon: '/icons/WordPress.svg' },
+      { name: 'Wordpress', icon: '/icons/Wordpress.svg' },
       { name: 'Shopify', icon: '/icons/Shopify.svg' },
     ],
-    date: 'Dec 2020 - Jan 2022',
+    date: 'Oct 2018 - Dec 2020',
+    link: 'https://www.professionalsofttech.com/',
   },
 ]
 
