@@ -8,16 +8,16 @@ export function About() {
   return (
     <Container>
       <AboutContainer>
-        {/* <div className="AboutImg">
+        <div className="AboutImg">
           <Image
             width={200}
             height={200}
             className="AboutImg"
-            src="/Professional_edited.jpg"
-            alt="Saravana's Image"
+            src="/Robert.png"
+            alt="Robert's Image"
+            unoptimized={true}
           />
-        </div> */}
-        // about me image
+        </div>
 
         <div className="aboutContent">
           <div className="aboutDescription">

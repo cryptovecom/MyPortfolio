@@ -48,7 +48,7 @@ export default function About() {
           <S.AboutImage>
             <img
               className="AboutImg"
-              src="/Saravana.jpg"
+              src="/Robert.png"
               alt="Robert Wang"
             />
 
@@ -100,25 +100,46 @@ export default function About() {
           </S.AboutImage>
           <S.AboutDescription>
             <p style={{ textAlign: 'justify' }}>
-            👋 Hey there! I am Saravanakumar, 🎓 a proud student of Velammal Engineering College, where I am pursuing a Bachelors degree in Electronics and Communication Engineering and building a solid foundation in technology. 
+            👋 Hello! I am Robert Wang,  
             </p>
             <p style={{ textAlign: 'justify' }}>
-            💻 I am also an avid game developer, enthusiastic volunteer, and public speaker, and I love exploring new opportunities and avenues.
+            Developed smart contracts and DApps on various EVM-compatible blockchain platforms, including Ethereum, Binance Smart Chain, Polygon, and Blast.
             </p>
             <p style={{ textAlign: 'justify' }}>
-            🎮 As a self-taught developer, I have spent countless hours sharpening my skills and learning new techniques to bring my ideas to life. I founded Gamecrafters as a passion project, and I am proud to say that its grown into a thriving business with a loyal following.
+            Built and maintained web applications and websites for blockchain and decentralized technologies using frameworks like React and Next.js.
             </p>
             <p style={{ textAlign: 'justify' }}>
-            🎉 I am proud to be a 100% attendance holder in both school and college, till 2nd year. I take my education seriously and love learning about new topics, especially when it comes to nuclear technology 💥.
+            Expert in JavaScript frameworks such as Node.js, Express.js, React, and Next.js
             </p>
             <p style={{ textAlign: 'justify' }}>
-            🧩 In my free time, I love to solve puzzles and brain teasers, which helps me stay sharp and keep my problem-solving skills on point. I am also a big fan of learning myths and legends from around the world 🌍, which gives me a glimpse into different cultures and traditions.
+            Managed application state effectively using state management libraries like Redux and Jotai.
             </p>
             <p style={{ textAlign: 'justify' }}>
-            🙌 Beyond my personal pursuits, I am committed to making a positive impact in my community. I love volunteering with local organizations and provide educational resources to underprivileged kids 📚 . Its amazing to see the impact that even a small amount of time and effort can have on someones life.
+            Strong proficiency in Web3 technologies and frameworks, such as Web3.js and Ethers.js, for interfacing with decentralized networks and protocols.
             </p>
             <p style={{ textAlign: 'justify' }}>
-            💪 So if you are looking for someone who is hardworking, authentic and always up for a good challenge, look no further than yours truly! Lets connect and see how we can make a difference together 🤝.
+            Seamlessly integrated front-end and back-end components with blockchain ecosystems using modern wallet connect frameworks like RainbowKit, Wagmi, Viem, and useOnboard.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Extensive experience in project development within diverse crypto ecosystems, including DeFi, P2E, NFTs, and DAOs.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            In-depth knowledge of EVM protocols and standards, such as ERC-20, ERC-721, ERC-1155, and ERC-4626.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Utilized IPFS (InterPlanetary File System) for decentralized data storage and integration within decentralized ecosystems.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Solid background in smart contract testing and gas optimization using Hardhat and Foundry.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Proficient in developing and deploying EVM smart contracts using tools such as Truffle, Hardhat, and Remix.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Designed and developed project architecture using tools such as Draw.io and UML diagrams.
+            </p>
+            <p style={{ textAlign: 'justify' }}>
+            Experienced in Agile development methodologies, architecture design, and software implementation, ensuring efficient and collaborative development for blockchain solutions with tools like Jira and GitHub.
             </p>
           </S.AboutDescription>
         </S.AboutContent>
