@@ -1,6 +1,6 @@
 const experience = [
   {
-    id: 3,
+    id: 5,
     img: '/experience/factory.png',
     title: 'FactoryGame',
     subTitle: '(Hybrid, Contract)',
@@ -21,7 +21,7 @@ const experience = [
     link: 'https://factorygame.org/',
   },
   {
-    id: 2,
+    id: 4,
     img: '/experience/MimicFinance.png',
     title: 'Mimic Team',
     subTitle: 'Remote, Full-Time',
@@ -41,7 +41,7 @@ const experience = [
   },
   
   {
-    id: 1,
+    id: 3,
     img: '/experience/voidz.svg',
     title: 'Voidz',
     subTitle: 'Remote, Part-Time',
@@ -60,20 +60,40 @@ const experience = [
     link: 'https://www.voidz.app',
   },
   {
-    id: 1,
-    img: '/experience/nsic.png',
+    id: 2,
+    img: '/experience/upwork.PNG',
     title: 'Upwork.com',
     subTitle: 'Remote, Contract',
-    office: 'Full Stack developer',
+    office: 'Freelancer & Full Stack developer',
     description:'✯Led the development of a hotel booking system using React, Node.js, and Express.js, cutting booking time by 30% and boosting engagement by 20%. \n\n✯Built a job portal using Next.js and MongoDB, achieving a 50% page load reduction and 25% more user sign-ups. \n\n✯Designed DeFi contracts for Ethereum, BSC, and Polygon, reducing gas costs by 20%.  \n\n✯Developed ERC-721 and ERC-1155 NFT smart contracts, optimizing gas fees by 30% and enabling cross-chain trading between Ethereum and Polygon.',
     tags: [
-      { name: 'Word', icon: '/icons/word.png' },
-      { name: 'PowerPoint', icon: '/icons/powerpoint.png' },
-      { name: 'Raspberry Pi', icon: '/icons/Pi.png' },
-      { name: 'Python', icon: '/icons/python.png' },
+      { name: 'React', icon: '/icons/react.png' },
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Solidity', icon: '/icons/solidity.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'Express.js', icon: '/icons/expressjs.png' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'TailwindCSS', icon: '/icons/tailwindcss.svg' },
     ],
     date: 'Dec 2020 - Jan 2022',
-    link: 'https://drive.google.com/file/d/1b7GSsGtZvycOhRV-JGZXC2gvwYH-9nKj/view?usp=sharing',
+  },
+  {
+    id: 1,
+    img: '/experience/psofttech.PNG',
+    title: 'https://www.professionalsofttech.com/',
+    subTitle: 'Onsite, Contract',
+    office: 'Full Stack developer',
+    description:'✯Successfully implemented websites and landing pages using the MERN stack, enhancing scalability and performance. \n\n✯Boosted user engagement by 20% through dynamic UI elements and responsive designs. Standardized outputs with mobile-first approaches, delivering optimized, cross-browser-compatible web pages. \n\n✯Engineered RESTful APIs with Express.js and integrated third-party services like Shopify and WordPress for e-commerce.  \n\n✯Led the development of custom Shopify apps and WordPress plugins, enhancing store functionality and content management.  \n\n✯Adapted to Agile practices, ensuring timely feature delivery and resolving technical challenges effectively.',
+    tags: [
+      { name: 'React', icon: '/icons/react.png' },
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'Express.js', icon: '/icons/expressjs.png' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'Wordpress', icon: '/icons/WordPress.svg' },
+      { name: 'Shopify', icon: '/icons/Shopify.svg' },
+    ],
+    date: 'Dec 2020 - Jan 2022',
   },
 ]
 
