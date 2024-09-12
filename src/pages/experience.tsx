@@ -13,7 +13,6 @@ import { Briefcase } from 'phosphor-react'
 import works from '../data/experiences'
 import { Education } from '../components/Education'
 import Link from 'next/link'
-import Testimonials from '../components/Testimonials'
 
 const botkey = process.env.NEXT_PUBLIC_BOTKEY_URL;
 
@@ -160,7 +159,6 @@ export default function Experience() {
             </TabContent>
           </Tabs>
         </TabsContainer>
-        <Testimonials />
         <Education />
         <Certificates />
       </Section>
