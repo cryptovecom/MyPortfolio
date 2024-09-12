@@ -51,7 +51,7 @@ const cardSkills = [
   {
     id: 9,
     title: 'Next.js',
-    img: '/icons/nextjs.svg',
+    img: '/icons/nextjs.png',
     color: '#ffffff'
   },
   {

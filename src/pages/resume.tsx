@@ -53,14 +53,6 @@ export default function Resume() {
         </Description>
 
         <PageSection>
-          <iframe
-            src={previewData}
-            allowFullScreen
-            width="740"
-            height="780"
-            title="RobertWang Resume"
-          />
-
           <CV />
         </PageSection>
       </Section>
