@@ -8,7 +8,7 @@ export function About() {
   return (
     <Container>
       <AboutContainer>
-        <div className="AboutImg">
+        {/* <div className="AboutImg">
           <Image
             width={200}
             height={200}
@@ -16,7 +16,8 @@ export function About() {
             src="/Professional_edited.jpg"
             alt="Saravana's Image"
           />
-        </div>
+        </div> */}
+        // about me image
 
         <div className="aboutContent">
           <div className="aboutDescription">
