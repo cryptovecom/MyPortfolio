@@ -10,7 +10,7 @@ export default function Contacts() {
   return (
     <>
       <Head>
-        <title>Contact | Saravanakumar </title>
+        <title>Contact | Robert Wang </title>
         <meta
           name="description"
           content="Feel free to get in touch and let's talk about how we can work together."
