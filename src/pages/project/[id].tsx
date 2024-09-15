@@ -23,7 +23,7 @@ interface ProjectProps {
 export default function Projeto({ project }: ProjectProps) {
   return <>
     <Head>
-      <title>{project.title} | Saravanakumar </title>
+      <title>{project.title} </title>
       <meta name="description" content={project.description} />
       <meta property="og:title" content={project.title} />
       <meta property="og:description" content={project.description} />

@@ -49,7 +49,7 @@ export default class MyDocument extends Document {
           <meta itemProp="image" content={meta.image} />
           <meta
             name="keywords"
-            content="Robert, website, programador, front-end, personal website, developer, portfolio, sites, web, JavaScript, TypeScript, ReactJS, NextJS, software, Freelancer, portfolio developer, Saravanakumar portfolio"
+            content="Robert, blockchain developer, solidity, smart contract, website, programmer, front-end, personal website, developer, portfolio, sites, web, JavaScript, TypeScript, ReactJS, NextJS, software, Freelancer, portfolio developer"
           />
           <meta name="copyright" content="Robert 2024" />
           <meta name="robots" content="index, follow" />

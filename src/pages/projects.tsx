@@ -31,12 +31,12 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects | Saravanakumar </title>
+        <title>Projects </title>
         <meta
           name="description"
           content="I love to code using tools like React, NextJS, Tailwind, Styled Components and more! Here are some of my favorite projects."
         />
-        <meta property="og:title" content="Projects | Saravanakumar" />
+        <meta property="og:title" content="Projects" />
         <meta
           property="og:description"
           content="I love to code using tools like React, NextJS, Tailwind, Styled Components and more! Here are some of my favorite projects."

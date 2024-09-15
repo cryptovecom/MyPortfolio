@@ -33,12 +33,12 @@ export default function Experience() {
   return (
     <div>
       <Head>
-        <title>Experience | Saravanakumar </title>
+        <title>Experience </title>
         <meta
           name="description"
           content="My experience"
         />
-        <meta property="og:title" content="Experience | Saravanakumar" />
+        <meta property="og:title" content="Experience" />
         <meta
           property="og:description"
           content="My experience"
