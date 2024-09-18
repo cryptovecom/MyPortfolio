@@ -106,7 +106,7 @@ export default function Projects() {
                           })}
                         </div>
                       </div>
-                      <Link href={`/project/${project.url}`}>
+                      <Link href={project.url}>
                         <T.ButtonAlternatives>
                           View Project
                           <ArrowRight

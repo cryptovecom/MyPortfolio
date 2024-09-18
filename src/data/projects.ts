@@ -1,12 +1,12 @@
 const projects = [
   {
     id: 6,
-    url: 'FactoryGame',
+    url: 'www.factorygame.org',
     banner: '/projects/FactoryGame/factorygame.PNG',
     img: '/projects/FactoryGame/factorygame.PNG',
     title: 'FactoryGame',
     type: 'Website',
-    web: 'https://factorygame.org /',
+    web: 'https://www.factorygame.org /',
     description:
       'Factory is a game asset creation platform based on NFT technology. The platform allows users to create new, higher-level NFTs, known as "Products," by staking existing digital assets (such as ERC-20, ERC-721, and ERC-1155 tokens). ',
     tags: [
@@ -25,110 +25,27 @@ const projects = [
   },
   {
     id: 5,
-    url: 'NSSVEC',
-    banner: '/projects/NSS/Banner.png',
-    img: '/projects/NSS/Banner.png',
-    title: 'NSS Website',
+    url: 'www.mimic.fi',
+    banner: '/projects/Mimic/Mimicfinance.PNG',
+    img: '/projects/Mimic/Mimicfinance.PNG',
+    title: 'MimicFinance',
     type: 'Website',
-    icon: '/projects/NSS/Nss.png',
-    blog: 'https://saravanakumar2003.hashnode.dev/nssvec-website',
-    github: 'https://github.com/cryptovecom/NSS',
-    web: 'https://nssvec.vercel.app/',
+    web: 'https://www.mimic.fi',
     description:
-      'NSSVEC is a platform that allows students to register, login, event/photo/video uploads, view & upload newsletters, notifications, volunteer/teacher lists, admin controls, and batch details. It was developed for the National Service Scheme (NSS) unit of Velammal Engineering College.',
+      'Mimic is a decentralized platform to model and automate DeFi operations. At its core, Mimic empowers users to define and execute tasks seamlessly within the DeFi ecosystem. These tasks encompass a wide range of operations, including yield farming, liquidity provision, token swaps, bridging assets, portfolio rebalancing, and more.',
     tags: [
-      {name: 'Personal Projects'}
+      {name: 'Blockchain Projects'}
     ],
 
     tech: [
-      {
-        name: 'HTML',
-        icon: '/icons/HTML.png',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'CSS',
-        icon: '/icons/CSS.png',
-        color: '#3178C6',
-        rgb: '49, 120, 198'
-      },
-      {
-        name: 'JavaScript',
-        icon: '/icons/JS.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'Firebase',
-        icon: '/icons/Firebase.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'Vercel',
-        icon: '/icons/vercel.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'React',
-        icon: '/icons/react.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
+      { name: 'Solidity', icon: '/icons/solidity.png' },
+      { name: 'TypeScript', icon: '/icons/TS.png'},
+      { name: 'Polygon', icon: '/icons/polygon.png' },
+      { name: 'Next', icon: '/icons/nextjs.png' },
+      { name: 'Hardhat', icon: '/icons/hardhat.png' },
+      { name: 'Git', icon: '/icons/git.png' }
     ],
 
-    print: [
-      {
-        name: 'Home Page',
-        description:
-          'The "Home" screen is the landing page, offering a welcoming interface and providing an introduction to the NSSVEC website.',
-        img: '/projects/NSS/1.png'
-      },
-      {
-        name: 'Login Page',
-        description:
-          'The "Login" screen allows users to sign in to their accounts, providing access to personalized features and content.',
-        img: '/projects/NSS/2.png'
-      },
-      {
-        name: 'Student Dashboard',
-        description:
-          'The "Student Dashboard" screen showcases a list of upcoming events, allowing students to register for events and access resources.',
-        img: '/projects/NSS/3.png'
-      },
-      {
-        name: 'Admin Dashboard',
-        description:
-          'The "Admin Dashboard" screen provides administrators with tools to manage events, view registrations, and access student data.',
-        img: '/projects/NSS/5.png'
-      },
-      {
-        name: 'Volunteer List Page',
-        description:
-          'The "Volunteer List" screen displays a list of volunteers, providing information about each volunteer and their respective roles.',
-        img: '/projects/NSS/6.png'
-      },
-      {
-        name: 'Event Upload Page',
-        description:
-          'The "Event Upload" screen allows administrators & teachers to upload new events, providing details and information for students to register.',
-        img: '/projects/NSS/8.png'
-      },
-      {
-        name: 'Newsletters Page',
-        description:
-          'The "Newsletters" screen features a collection of newsletters, providing updates and information about NSSVEC activities and events.',
-        img: '/projects/NSS/9.png'
-       },
-    ],
-    status: 'Completed',
-    year: 'May 2024',
-    gif: '/projects/Portfolio/Cool.mp4',
-    backgroundImage: '/projects/Background.png',
-    video:
-      'https://youtu.be/WzlVRtlzjSM'
   },
   {
     id: 4,
