@@ -13,11 +13,13 @@ export const ProjectsContainer = styled.div`
   @media (min-width: 768px) {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    align-items: start;
   }
 
   @media (min-width: 1200px) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    align-items: start;
   }
 `
 
@@ -40,11 +42,11 @@ export const ProjectsContent = styled.div`
   }
 
   img {
-    width: 100%;
+    // width: 100%;
     height: 100%;
     border-radius: 5px;
     opacity: 1;
-    object-fit: cover;
+    // object-fit: cover;
 
     &:hover {
       opacity: 0.5;

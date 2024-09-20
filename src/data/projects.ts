@@ -1,6 +1,6 @@
 const projects = [
   {
-    id: 6,
+    id: 9,
     url: 'www.factorygame.org',
     banner: '/projects/FactoryGame/factorygame.PNG',
     img: '/projects/FactoryGame/factorygame.PNG',
@@ -24,7 +24,7 @@ const projects = [
    
   },
   {
-    id: 5,
+    id: 8,
     url: 'www.mimic.fi',
     banner: '/projects/Mimic/Mimicfinance.PNG',
     img: '/projects/Mimic/Mimicfinance.PNG',
@@ -48,7 +48,7 @@ const projects = [
 
   },
   {
-    id: 4,
+    id: 7,
     url: 'https://www.voidz.app',
     banner: '/projects/voidz/voidz.PNG',
     img: '/projects/voidz/voidz.PNG',
@@ -72,7 +72,7 @@ const projects = [
     ],
   },
   {
-    id: 3,
+    id: 6,
     url: 'https://mukul-beach-resort.vercel.app/',
     banner: '/projects/HotelRoomBookingSystem/hotelbooking.png',
     img: '/projects/HotelRoomBookingSystem/hotelbooking.png',
@@ -83,7 +83,7 @@ const projects = [
       'This project is a Beach Resort | Hotel Room Booking System. Frontend (Client Side) has developed by Next.js and Admin Panel has developed by React. And Backend has developed by Express.js. ',
     tags: [
       {name: 'React'},
-      {name: 'Next.js'}
+      {name: 'NextJS'}
     ],
     tech: [
       { name: 'JavaScript', icon: '/icons/JS.png'},
@@ -98,177 +98,117 @@ const projects = [
 
   },
   {
-    id: 2,
+    id: 5,
     url: 'https://job-portal-teal.vercel.app/',
-    banner: '/projects/EmpowerKids/EKBG.png',
-    img: '/projects/EmpowerKids/EKBG.png',
-    title: 'EmpowerKids',
+    banner: '/projects/JobPortal/jobportal.png',
+    img: '/projects/JobPortal/jobportal.png',
+    title: 'JobPortal',
     type: 'Website',
-    icon: '/projects/EmpowerKids/EKlogo.jpg',
-    github: 'https://github.com/cryptovecom/EmpowerKids',
-    blog: 'https://saravanakumar2003.hashnode.dev/empowerkids-complaint-portal',
-    web: 'https://empowerkids.netlify.app/',
+    web: 'https://job-portal-teal.vercel.app/',
     description:
       'Empowerkids is a platform that allows children to file complaints regarding issues that affect them. ',
     tags: [
-      {name: 'Hackathon Projects'},
+      {name: 'NextJS'},
+    ],
+    tech: [
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'TailwindCSS', icon: '/icons/tailwindcss.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
+    ],
+  },
+  {
+    id: 4,
+    url: '',
+    banner: '/projects/EcommerceSite/Easy-Ecommerce-Site.PNG',
+    img: '/projects/EcommerceSite/Easy-Ecommerce-Site.PNG',
+    title: 'Easy-Ecommerce-Site',
+    type: 'Website',
+    description:
+      'It is easy ecommerce website for men and women\'s clothes that built using Next.js, a React framework that enables server-side rendering and other powerful features. The website is easy example website for beginners.',
+    tags: [
+      {name: 'NextJS'},
+      {name: 'Learning'},
     ],
 
     tech: [
-      {
-        name: 'HTML',
-        icon: '/icons/HTML.png',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'Firebase',
-        icon: '/icons/Firebase.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'JavaScript',
-        icon: '/icons/JS.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'CSS',
-        icon: '/icons/CSS.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
+    ],
+  },
+  {
+    id: 3,
+    url: '',
+    banner: '/projects/PassWordProtect/passwordprotect.PNG',
+    img: '/projects/PassWordProtect/passwordprotect.PNG',
+    title: 'PasswordProtect',
+    type: 'Website',
+    description:
+      'It is easy example project for password protect. It adds a password prompt to your Next.js deployment. ',
+    tags: [
+      {name: 'React'},
+      {name: 'Learning'},
     ],
 
-    print: [
-      {
-        name: 'Home Page',
-        description:
-          'It is the home page of our website with basic information. It features a Notification / Circulars section with the latest updates from Officers.',
-        img: '/projects/EmpowerKids/EK1.jpeg'
-      },
-      {
-        name: 'Student Dashboard',
-        description:
-          'Student can Raise a New Complaint by entering "Complaint Type" and "Complaint Description". Students can see the "My Complaints" section with all complaints lodged by him/her in the Data Table. Info icon opens dialog box for additional information like Issued To, Remarks etc.',
-        img: '/projects/EmpowerKids/EKStudent.jpeg'
-      },
-      {
-        name: 'Officer Dashboard',
-        description:
-          'Features the same UI for three different officers - EmpowerKids Team, Legal Expert, and Government Official. Officer can add/delete Notification / Circulars from the dashboard which is shown on the Home Page.',
-        img: '/projects/EmpowerKids/EKOfficial.jpeg'
-      },
-      {
-        name: 'Admin Dashboard',
-        description:
-          'Admin Data Table features all account details. Admin can change any account type to - Student, EmpowerKids Team, Legal Expert, Government Official, Admin.',
-        img: '/projects/EmpowerKids/EKAdmin.jpeg'
-      },
-      {
-        name: 'Contact Us Page',
-        description:
-          'Contact Us Page features about us, contact details, and a email ID for any queries.',
-        img: '/projects/EmpowerKids/EkComplaint.jpeg'
-      },
+    tech: [
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'React', icon: '/icons/react.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
     ],
-    status: 'Completed',
-    year: 'November 2023',
-    gif: '/projects/Portfolio/Cool.mp4',
-    backgroundImage: '/projects/Background.png',
-    video:
-      'https://youtu.be/oh0n2WFNn5U'
+  },
+  {
+    id: 2,
+    url: '',
+    banner: '/projects/ChatApp/snappy.PNG',
+    img: '/projects/ChatApp/snappy.PNG',
+    title: 'ChatApp',
+    type: 'Website',
+    description:
+      'Snappy is chat application build with the power of MERN Stack.',
+    tags: [
+      {name: 'React'},
+      {name: 'Learning'},
+    ],
+
+    tech: [
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'React', icon: '/icons/react.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'express.js', icon: '/icons/expressjs.png' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
+    ],
   },
   {
     id: 1,
-    url: 'Personal Portfolio',
-    banner: '/projects/Portfolio/Portfolio.png',
-    img: '/projects/Portfolio/Portfolio.png',
-    title: 'Personal Portfolio',
+    url: '',
+    banner: '/projects/recipe/recipe.PNG',
+    img: '/projects/recipe/recipe.PNG',
+    title: 'Authentication-Authorization',
     type: 'Website',
-    icon: '/Logo1.png',
-    github: 'https://github.com/cryptovecom/Portfolio',
-    blog: 'https://saravanakumar2003.hashnode.dev/how-i-built-my-portfolio',
-    web: 'https://saravana.vercel.app/',
     description:
-      'It is built using Next.js, a React framework that enables server-side rendering and other powerful features. The website is designed to showcase my skills, projects, and other relevant information.',
+      'ChefConnect is a recipe-sharing platform built entirely with Next.js and Tailwind CSS. It enables users to discover, save, and share recipes effortlessly while providing authentication and authorization features for a full-stack app.',
     tags: [
-      {name: 'Personal Projects'},
+      {name: 'NextJS'},
+      {name: 'Learning'},
     ],
 
     tech: [
-      {
-        name: 'Next.js',
-        icon: '/icons/nextjs.png',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'Vercel',
-        icon: '/icons/vercel.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'TypeScript',
-        icon: '/icons/TS.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'React',
-        icon: '/icons/react.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'TailwindCSS', icon: '/icons/tailwindcss.svg' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
     ],
-
-    print: [
-      {
-        name: 'Home Page',
-        description:
-          'The home page features a brief introduction about me, my skills, and my projects. It also features a link contact form and to my resume. The home page also features a music toggle button that allows the user to play a bgm while viewing my portfolio.',
-        img: '/projects/Portfolio/Home.png'
-      },
-      {
-        name: 'Top Skills',
-        description:
-          'The top skills section features my top skills with a stunning. The top skills is animated using Framer Motion. It is also responsive and changes its width and number of skills to be displayed in single row according to the screen size.',
-        img: '/projects/Portfolio/Skills.png'
-      },
-      {
-        name: 'Instagram Feed',
-        description:
-          'The Instagram feed section features my latest Instagram posts. It is built using the Instagram Widgets by Behold.so (third-part provider).',
-        img: '/projects/Portfolio/IG.png'
-      },
-      {
-        name: 'Github Contributions',
-        description:
-          'Integration with GitHub allows dynamic fetching and display of GitHub-related data, such as followers, following, total stars and contributions.',
-        img: '/projects/Portfolio/github.png'
-      },
-      {
-        name: 'Contact Page',
-        description:
-          'The contact page features a contact form that allows the user to send me a message. The contact form is built using Emailjs, a third-party provider.',
-        img: '/projects/Portfolio/contact.png'
-      },
-      {
-        name: 'Calendly Integration',
-        description:
-          'Integration with Calendly allows the user to schedule a meeting with me. The Calendly widget is embedded in the website.',
-        img: '/projects/Portfolio/calendy.png'
-      }
-    ],
-    status: 'Completed',
-    year: 'October 2023',
-    gif: '/projects/Portfolio/Cool.mp4',
-    backgroundImage: '/projects/Background.png',
-    video:
-      'https://youtu.be/WzlVRtlzjSM'
-  },
+  }
 ]
 
 export default projects
