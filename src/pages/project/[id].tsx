@@ -216,21 +216,12 @@ export const getStaticProps: GetStaticProps = async ({ params }: any) => {
     link: project.url,
     imgUrl: project.img,
     banner: project.banner,
-    icon: project.icon,
     title: project.title,
     type: project.type,
-    github: project.github,
     web: project.web,
     description: project.description,
     tags: project.tags,
-    print: project.print,
-    gif: project.gif,
-    year: project.year,
-    status: project.status,
-    video: project.video,
     tech: project.tech,
-    backgroundImage: project.backgroundImage,
-    blog: project.blog
   }))
 
   const idProject = project.find(project => project.link === params.id)
