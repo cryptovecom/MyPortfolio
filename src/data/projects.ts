@@ -49,179 +49,57 @@ const projects = [
   },
   {
     id: 4,
-    url: 'NIWEDashboard',
-    banner: '/projects/NIWEDashboard/NIWE.png',
-    img: '/projects/NIWEDashboard/NIWE.png',
-    title: 'NIWE Dashboard',
+    url: 'https://www.voidz.app',
+    banner: '/projects/voidz/voidz.PNG',
+    img: '/projects/voidz/voidz.PNG',
+    title: 'VoidZ',
     type: 'Website',
-    icon: '/projects/NIWEDashboard/NIWE.png',
-    blog: 'https://saravanakumar2003.hashnode.dev/niwe-dashboard',
-    github: 'https://github.com/cryptovecom/NIWEDashboard',
-    web: 'https://niwe.netlify.app/',
+    web: 'https://www.voidz.app',
     description:
-      'This is a powerful management system made for NIWE (National Institue of Wind Energy) during my internship. The system is designed to simplify and enhance project management, making it efficient.',
+      'VoidZ is a Synthetic Liquidity Protocol designed to transform in-game assets into real-world, tradeable tokens through cross-chain tokenization. It unlocks the financial potential of gaming assets by allowing players and developers to tokenize and trade these assets on the blockchain.',
     tags: [
-      {name: 'NIWE Projects'},
+      {name: 'Blockchain Projects'},
     ],
 
     tech: [
-      {
-        name: 'HTML',
-        icon: '/icons/HTML.png',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'CSS',
-        icon: '/icons/CSS.png',
-        color: '#3178C6',
-        rgb: '49, 120, 198'
-      },
-      {
-        name: 'JavaScript',
-        icon: '/icons/JS.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'Firebase',
-        icon: '/icons/Firebase.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
+      { name: 'Solidity', icon: '/icons/solidity.png' },
+      { name: 'TypeScript', icon: '/icons/TS.png'},
+      { name: 'Ethereum', icon: '/icons/ethereum.png' },
+      { name: 'Web3', icon: '/icons/web3.png' },
+      { name: 'Next', icon: '/icons/nextjs.png' },
+      { name: 'Hardhat', icon: '/icons/hardhat.png' },
+      { name: 'Git', icon: '/icons/git.png' }
     ],
-
-    print: [
-      {
-        name: 'Home Page',
-        description:
-          'The "Home" screen is the landing page, offering a welcoming interface and providing an introduction to the NIWE Dashboard.',
-        img: '/projects/NIWEDashboard/Home.jpg'
-      },
-      {
-        name: 'Add Project',
-        description:
-          'The "Add Project" screen allows users to input and submit project details, making it easy to add new projects to the system.',
-        img: '/projects/NIWEDashboard/Add-Poject.jpg'
-      },
-      {
-        name: 'Project List/Table view',
-        description:
-          'The "Project Table" screen displays a table or grid of projects, offering a quick overview of ongoing projects, their statuses, and key details.',
-        img: '/projects/NIWEDashboard/Project-Table.jpg'
-      },
-      {
-        name: 'Add/View Employees',
-        description:
-          'The "Employees" screen showcases a list of team members, providing information about each employee and their respective roles.',
-        img: '/projects/NIWEDashboard/Employees.jpg'
-      },
-      {
-        name: 'Add/View Attendance',
-        description:
-          'The "Attendance" screen provides an overview of employee attendance, allowing for easy tracking and management of attendance records.',
-        img: '/projects/NIWEDashboard/Attendance.jpg'
-      },
-      {
-        name: 'Add/View Todo List',
-        description:
-          'The "Todo" screen features a task management interface, allowing users to create, track, and manage their to-do lists within the system.',
-        img: '/projects/NIWEDashboard/Todo.jpg'
-      },
-      {
-        name: 'Add/View Event List',
-        description:
-          'The "Events" screen showcases a calendar or list of events related to projects or team activities, helping users stay informed about upcoming events.',
-        img: '/projects/NIWEDashboard/Events.jpg'
-      },
-      {
-        name: 'Contact Us Page',
-        description:
-          'The "Contact Us" screen offers a form or interface for users to get in touch with the developer or relevant contacts associated with the project.',
-        img: '/projects/NIWEDashboard/Contact-Us.jpg'
-      }
-    ],
-    status: 'Completed',
-    year: 'January 2024',
-    gif: '/projects/Portfolio/Cool.mp4',
-    backgroundImage: '/projects/Background.png',
-    video:
-      'https://youtu.be/WzlVRtlzjSM'
   },
   {
     id: 3,
-    url: 'dat_2_csv',
-    banner: '/projects/DATtoCSV/DATBG.png',
-    img: '/projects/DATtoCSV/DATBG.png',
-    title: 'DAT to CSV Converter',
-    type: 'Convertor',
-    icon: '/projects/DATtoCSV/DATlogo.png',
-    blog: 'https://saravanakumar2003.hashnode.dev/dat-to-csv-file-converter',
-    github: 'https://github.com/cryptovecom/DAT-to-CSV-Convertor',
-    web: 'https://saravanakumar.pythonanywhere.com/',
+    url: 'https://mukul-beach-resort.vercel.app/',
+    banner: '/projects/HotelRoomBookingSystem/hotelbooking.png',
+    img: '/projects/HotelRoomBookingSystem/hotelbooking.png',
+    title: 'Hotel Room Booking System',
+    type: 'Website',
+    web: 'https://mukul-beach-resort.vercel.app/',
     description:
-      'This project is a Python-based .dat to .csv file converter initially developed during my internship tenure at the National Institute of Wind Energy (NIWE). The objective was to address the challenge of converting .dat files to .csv format efficiently.',
+      'This project is a Beach Resort | Hotel Room Booking System. Frontend (Client Side) has developed by Next.js and Admin Panel has developed by React. And Backend has developed by Express.js. ',
     tags: [
-      {name: 'NIWE Projects'}
+      {name: 'React'},
+      {name: 'Next.js'}
     ],
-
     tech: [
-      {
-        name: 'HTML',
-        icon: '/icons/HTML.png',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'PythonAnywhere',
-        icon: '/icons/Pyany.png',
-        color: '#635BFF',
-        rgb: '99, 91, 255'
-      },
-      {
-        name: 'Python',
-        icon: '/icons/python.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
-      {
-        name: 'Flask',
-        icon: '/icons/flask.png',
-        color: '#38BDF8',
-        rgb: '56, 189, 248'
-      },
+      { name: 'JavaScript', icon: '/icons/JS.png'},
+      { name: 'React', icon: '/icons/react.svg' },
+      { name: 'Next.js', icon: '/icons/nextjs.png' },
+      { name: 'Node.js', icon: '/icons/nodejs.svg' },
+      { name: 'express.js', icon: '/icons/expressjs.png' },
+      { name: 'MongoDB', icon: '/icons/mongodb.svg' },
+      { name: 'TailwindCSS', icon: '/icons/tailwindcss.svg' },
+      { name: 'Git', icon: '/icons/git.png' }
     ],
 
-    print: [
-      {
-        name: 'Home Page',
-        description:
-          'A user-friendly website, enabling anyone, regardless of technical expertise, to perform the conversion effortlessly. This proactive approach allows for automation and provides accessibility to perform the conversion in a fraction of a second using any device, anytime and anywhere.',
-        img: '/projects/DATtoCSV/DatHome.jpeg'
-      },
-      {
-        name: 'Input File',
-        description:
-          'The user can upload the .dat file to be converted. The .dat file has to be in the format given below. The user can also download the sample .dat file from the website.',
-        img: '/projects/DATtoCSV/DatInput.jpeg'
-      },
-      {
-        name: 'Output File',
-        description:
-          'The user can download the converted .csv file. The .csv file will be in the format given below. The user can also download the .csv file from the website by uploadin sample .dat into the converter.',
-        img: '/projects/DATtoCSV/DatOutput.jpeg'
-      },
-    ],
-    status: 'Completed',
-    year: 'December 2023',
-    gif: '/projects/Portfolio/Cool.mp4',
-    backgroundImage: '/projects/Background.png',
-    video:
-      'https://youtu.be/ggpB_Erkl4k'
   },
   {
     id: 2,
-    url: 'EmpowerKids',
+    url: 'https://job-portal-teal.vercel.app/',
     banner: '/projects/EmpowerKids/EKBG.png',
     img: '/projects/EmpowerKids/EKBG.png',
     title: 'EmpowerKids',
