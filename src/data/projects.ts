@@ -1,7 +1,7 @@
 const projects = [
   {
     id: 9,
-    url: 'www.factorygame.org',
+    url: '',
     banner: '/projects/FactoryGame/factorygame.PNG',
     img: '/projects/FactoryGame/factorygame.PNG',
     title: 'FactoryGame',
@@ -25,7 +25,7 @@ const projects = [
   },
   {
     id: 8,
-    url: 'www.mimic.fi',
+    url: '',
     banner: '/projects/Mimic/Mimicfinance.PNG',
     img: '/projects/Mimic/Mimicfinance.PNG',
     title: 'MimicFinance',
@@ -49,7 +49,7 @@ const projects = [
   },
   {
     id: 7,
-    url: 'https://www.voidz.app',
+    url: '',
     banner: '/projects/voidz/voidz.PNG',
     img: '/projects/voidz/voidz.PNG',
     title: 'VoidZ',
@@ -73,7 +73,7 @@ const projects = [
   },
   {
     id: 6,
-    url: 'https://mukul-beach-resort.vercel.app/',
+    url: '',
     banner: '/projects/HotelRoomBookingSystem/hotelbooking.png',
     img: '/projects/HotelRoomBookingSystem/hotelbooking.png',
     title: 'Hotel Room Booking System',
@@ -99,7 +99,7 @@ const projects = [
   },
   {
     id: 5,
-    url: 'https://job-portal-teal.vercel.app/',
+    url: '',
     banner: '/projects/JobPortal/jobportal.png',
     img: '/projects/JobPortal/jobportal.png',
     title: 'JobPortal',
@@ -144,8 +144,8 @@ const projects = [
   {
     id: 3,
     url: '',
-    banner: '/projects/PassWordProtect/passwordprotect.PNG',
-    img: '/projects/PassWordProtect/passwordprotect.PNG',
+    banner: '/projects/PasswordProtect/passwordprotect.PNG',
+    img: '/projects/PasswordProtect/passwordprotect.PNG',
     title: 'PasswordProtect',
     type: 'Website',
     description:
@@ -166,8 +166,8 @@ const projects = [
   {
     id: 2,
     url: '',
-    banner: '/projects/ChatApp/snappy.PNG',
-    img: '/projects/ChatApp/snappy.PNG',
+    banner: '/projects/ChatApp/snappy.png',
+    img: '/projects/ChatApp/snappy.png',
     title: 'ChatApp',
     type: 'Website',
     description:
@@ -189,8 +189,8 @@ const projects = [
   {
     id: 1,
     url: '',
-    banner: '/projects/recipe/recipe.PNG',
-    img: '/projects/recipe/recipe.PNG',
+    banner: '/projects/Recipe/recipe.PNG',
+    img: '/projects/Recipe/recipe.PNG',
     title: 'Authentication-Authorization',
     type: 'Website',
     description:
